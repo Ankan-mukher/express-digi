@@ -1,0 +1,20 @@
+{
+  "name": "tea-manaager",
+  "version": "1.0.0",
+  "description": "a simple manage for tea",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "tea"
+  ],
+  "author": "ankan mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
